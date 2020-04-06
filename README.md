@@ -8,12 +8,15 @@
 
 3- por consola clono el repositorio 
         git clone https://github.com/MatyEze/Cclase03funciones.git
+
 4- hago los cambios (m,b,a)
 
 5- agregar cambios
         git add .
+
 6- comitear cambios
         git commit -m "mensaje del cambio"
+
 7- subir el repositorio
         git push
 
