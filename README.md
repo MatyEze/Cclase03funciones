@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Sellanes Matias
 # Tutorial de Git + GitHub
 
-complete los datosn aquí!!!
+--La primer vez
