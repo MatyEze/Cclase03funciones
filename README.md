@@ -16,3 +16,17 @@
         git commit -m "mensaje del cambio"
 7- subir el repositorio
         git push
+
+
+# Orden de comandos
+
+a- git clone (unico)
+
+    iteracion:
+
+b- git add .
+c- git commit -m "mensaje"
+
+    solo para subir:
+
+d- git push
